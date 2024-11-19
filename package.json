@@ -34,7 +34,7 @@
     "xregexp": "^4.2.4"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.0.3",
     "camelcase": "^5.3.1",
     "csv-parse": "^4.4.3",
     "empty-folder": "^2.0.3",
