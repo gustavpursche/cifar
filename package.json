@@ -19,7 +19,7 @@
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-react-svg": "^2.1.1",
     "gatsby-plugin-sharp": "^2.1.5",
-    "gatsby-plugin-styled-jsx": "^3.0.5",
+    "gatsby-plugin-styled-jsx": "^3.1.4",
     "gatsby-source-filesystem": "^2.0.39",
     "gatsby-transformer-sharp": "^2.1.21",
     "node-fetch": "^2.6.0",
